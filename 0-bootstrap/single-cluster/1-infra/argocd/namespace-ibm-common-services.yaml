@@ -13,7 +13,3 @@ spec:
   project: infra
   source:
     path: namespaces/ibm-common-services
-  syncPolicy:
-    automated:
-      prune: true
-      selfHeal: true
